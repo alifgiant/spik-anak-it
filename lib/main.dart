@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<Widget> intro() {
     return [
       Text(
-        'Halo Ufihan!!',
+        'Halo Vidya!!',
         style: TextStyle(fontSize: 26, fontWeight: FontWeight.w700),
       ),
       Container(height: 18),
@@ -169,7 +169,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<Widget> part7() {
     return [
       Text(
-        'Beli roti rasa coklat, Beli jus buah pepaya',
+        'Beli jus buah pepaya, Bikin roti pake selai srikaya!',
         style: TextStyle(fontSize: 18),
       ),
       Container(height: 32),
@@ -183,7 +183,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<Widget> part8() {
     return [
       Text(
-        'Capek kerja biasa, tapi Semangat terus yaa!',
+        'Pusing mau nikah itu biasa, vidya semangat terus yaa!',
         style: TextStyle(fontSize: 18),
       ),
       Container(height: 12),
