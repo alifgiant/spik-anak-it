@@ -47884,7 +47884,7 @@ case 5:return r.Tw()
 case 6:return r.Tx()
 case 7:return r.Ty()
 case 8:s=t.p
-return A.a([A.c5("Pusing mau nikah itu biasa, tapi Semangat terus yaa!",A.d1(q,q,q,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.d9(q,q,q,q,12,q,q,q),A.rX(B.ca,A.a([A.c5("Loading..",q,q,q),new A.pR(A.af2(q,q,new A.mt("https://media.giphy.com/media/tI880EKd2rxq8/giphy.gif",1,q)),180,q)],s),B.c0)],s)
+return A.a([A.c5("Pusing mau nikah itu biasa, vidya semangat terus yaa!",A.d1(q,q,q,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.d9(q,q,q,q,12,q,q,q),A.rX(B.ca,A.a([A.c5("Loading..",q,q,q),new A.pR(A.af2(q,q,new A.mt("https://media.giphy.com/media/tI880EKd2rxq8/giphy.gif",1,q)),180,q)],s),B.c0)],s)
 default:r.d=0
 return r.Bh()}},
 S(a,b){var s=null,r=A.bZ(0,700)
