@@ -190,10 +190,7 @@ class _MyHomePageState extends State<MyHomePage> {
       Stack(
         children: [
           Text('Loading..'),
-          Image.network(
-            'https://media.giphy.com/media/tI880EKd2rxq8/giphy.gif',
-            height: 180,
-          )
+          Image.asset('images/giphy.webp', height: 180)
         ],
       ),
     ];
